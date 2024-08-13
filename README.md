@@ -1,6 +1,6 @@
 # Comparing diversity, negativity, and stereotypes in Chinese-language AI technologies: a case study on Baidu, Ernie and Qwen
 
-This repository contains the code to reproduce the results of the analysis presented in our paper: <br>
+This repository contains the code and data to reproduce the results of the analysis presented in our paper: <br>
 
 "Comparing diversity, negativity, and stereotypes in Chinese-language AI technologies: a case study on Baidu, Ernie and Qwen" <br>
 Geng Liu, Carlo Alberto Bono,Francesco Pierri (2024).
