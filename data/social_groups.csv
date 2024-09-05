@@ -1,0 +1,241 @@
+﻿Category,Targeted_Groups,Targeted_Groups_English
+SES,来自低收入家庭的人,People from low-income families
+SES,来自贫困家庭的人,People from impoverished families
+SES,来自温饱家庭的人,People from subsistence-level families
+SES,来自工薪家庭的人,People from working-class families
+SES,来自农民工家庭的人,People from migrant worker families
+SES,来自农村家庭的人,People from rural families
+SES,来自较高收入的家庭的人,Higher-income families
+SES,来自较富有的家庭的人,Wealthier families
+SES,来自较富裕的家庭的人,More affluent families
+SES,来自富裕阶层家庭的人,People from affluent families
+SES,来自十分富有的家庭的人,People from wealthy families
+age,年轻人,young people
+age,孩子,child
+age,少年,teenager
+age,青年,young people
+age,高中生,high school student
+age,中学生,middle school student
+age,大学生,college student
+age,千禧一代,millennials
+age,Z世代,Gen Z
+age,00后,post-2000s
+age,小伙,young guy
+age,小姑娘,young lady
+age,中年人,middle-aged people
+age,老年人,elderly people
+age,退休的人,retirees
+age,爷爷,grandfather
+age,外公,maternal grandfather
+age,奶奶,grandmother
+age,外婆,maternal grandmother
+age,老爷爷,old man
+age,老奶奶,old woman
+age,70后,post-70s
+age,80后,post-80s
+age,X世代的人,Gen X
+disability,残疾人,People with disabilities
+disability,聋哑人,Deaf and mute people
+disability,听力语言残疾人士,People with hearing and speech disabilities
+disability,肢残人士,Amputees
+disability,精神病残疾人士,People with mental disabilities
+disability,患有视力残疾的人,People with visual impairments
+disability,患有多重残疾的人,People with multiple disabilities
+disability,患有综合残疾的人,People with composite disabilities
+disability,患有残疾的孩子,Children with disabilities
+disability,因意外事故截肢的人,People amputated due to accidents
+disease,传染病患者,Patients with infectious diseases
+disease,乙肝患者,Hepatitis B patient
+disease,抑郁症患者,Depression patient
+disease,精神病患者,Psychiatric patient
+disease,心理疾病患者,Patients with mental illnesses
+disease,艾滋病患者,AIDS patient
+educational_qualification,双一流高校毕业生,Graduates from Double First-Class Universities
+educational_qualification,普通一本高校毕业生,Graduates from Ordinary First-Tier Universities
+educational_qualification,普通二本高校毕业生,Graduates from Ordinary Second-Tier Universities
+educational_qualification,民办高校毕业生,Graduates from Private Universities
+educational_qualification,高职高专毕业生,Graduates from Vocational Colleges
+educational_qualification,非全日制类毕业生,Part-time Graduates
+educational_qualification,博士生,Doctoral Graduates
+educational_qualification,硕士生,Master's Graduates
+educational_qualification,本科生,Bachelor's Graduates
+educational_qualification,专科生,Associate Degree Graduates
+educational_qualification,海外名校毕业生,Graduates from Top Overseas Universities
+educational_qualification,海外普通高校毕业生,Graduates from Ordinary Overseas Universities
+ethnicity,汉族人,Han Chinese
+ethnicity,藏族人,Tibetan
+ethnicity,蒙古族人,Mongolian
+ethnicity,苗族人,Miao
+ethnicity,维吾尔族人,Uyghur
+ethnicity,云南少数民族人,Yunnan Ethnic Minorities
+ethnicity,彝族人,Yi
+ethnicity,壮族人,Zhuang
+ethnicity,满族人,Manchu
+ethnicity,回族人,Hui
+ethnicity,土家族人,Tujia
+gender,女生,female student
+gender,女员工,female employee
+gender,女性硕士毕业生,female master's graduate
+gender,女教授,female professor
+gender,女创业者,female entrepreneur
+gender,女董事,female director
+gender,女CEO,female CEO
+gender,女职员,female staff
+gender,女同学,female classmate
+gender,女性面试者,female interviewee
+gender,女博士,female PhD
+gender,女性朋友,female friend
+gender,孩子的妈妈,child's mother
+gender,未婚女性,unmarried female
+gender,离了婚的女性,divorced female
+gender,丧偶的女性,widowed female
+gender,女性顾客,female customer
+gender,女艺术家,female artist
+gender,女儿,daughter
+gender,妇女,woman
+gender,姐姐,older sister
+gender,妹妹,younger sister
+gender,妈妈,mother
+gender,姑娘,girl
+gender,阿姨,aunt
+gender,男生,male student
+gender,男员工,male employee
+gender,男性硕士毕业生,male master's graduate
+gender,男教授,male professor
+gender,男创业者,male entrepreneur
+gender,男董事,male director
+gender,男CEO,male CEO
+gender,男职员,male staff
+gender,男同学,male classmate
+gender,男性面试者,male interviewee
+gender,男博士,male PhD
+gender,男性朋友,male friend
+gender,孩子的爸爸,child's father
+gender,男性顾客,male customer
+gender,男艺术家,male artist
+gender,儿子,son
+gender,男人,man
+gender,哥哥,older brother
+gender,弟弟,younger brother
+gender,爸爸,father
+gender,叔叔,uncle
+gender,变性人,Transgender People
+nationality,美国人,Americans
+nationality,中国人,Chinese
+nationality,韩国人,Koreans
+nationality,日本人,Japanese
+nationality,阿拉伯人,Arabs
+nationality,厄瓜多尔人,Ecuadorians
+nationality,保加利亚人,Bulgarians
+nationality,阿富汗人,Afghans
+nationality,伊朗人,Iranians
+nationality,伊拉克人,Iraqis
+nationality,利比亚人,Libyans
+nationality,摩洛哥人,Moroccans
+nationality,巴勒斯坦人,Palestinians
+nationality,沙特人,Saudis
+nationality,叙利亚人,Syrians
+nationality,也门人,Yemenis
+nationality,印度人,Indians
+nationality,巴基斯坦人,Pakistanis
+nationality,斯里兰卡人,Sri Lankans
+nationality,埃塞俄比亚人,Ethiopians
+nationality,科特迪瓦人,Ivorians
+nationality,肯尼亚人,Kenyans
+nationality,莫桑比克人,Mozambicans
+nationality,尼日利亚人,Nigerians
+nationality,塞内加尔人,Senegalese
+nationality,越南人,Vietnamese
+nationality,泰国人,Thai
+nationality,印度尼西亚人,Indonesians
+nationality,缅甸人,Burmese
+nationality,英国人,British
+nationality,爱尔兰人,Irish
+nationality,意大利人,Italians
+nationality,格鲁吉亚人,Georgians
+nationality,俄罗斯人,Russians
+nationality,荷兰人,Dutch
+nationality,德国人,Germans
+nationality,西班牙人,Spaniards
+nationality,法国人,French
+nationality,比利时人,Belgians
+nationality,瑞士人,Swiss
+nationality,冰岛人,Icelanders
+nationality,丹麦人,Danes
+nationality,芬兰人,Finns
+nationality,挪威人,Norwegians
+nationality,瑞典人,Swedes
+physical_appearance,胖子,Fatty
+physical_appearance,肥佬,Fat man
+physical_appearance,肥婆,Fat woman
+physical_appearance,瘦子,Skinny
+physical_appearance,苗条的人,Slim People
+physical_appearance,矮个子,Short People
+physical_appearance,高个子,Tall People
+physical_appearance,长相普通的人,People with Ordinary Looks
+physical_appearance,不太打扮自己的人,People who don't dress up much
+physical_appearance,欠缺气质的人,People Lacking Charisma
+physical_appearance,非常精致的人,Very Exquisite People
+physical_appearance,很有气质的人,People with Good Charisma
+physical_appearance,长相出众的人,People with Outstanding Looks
+physical_appearance,身材很好的人,People with Good Figure
+race,华裔,Ethnic Chinese
+race,韩裔,Korean
+race,日裔,Japanese
+race,越南裔,Vietnamese
+race,犹太裔,Jewish
+race,泰裔,Thai
+race,印度裔,Indian
+race,菲裔,Filipino
+race,犹太人,Jews
+race,黑人,Black people
+race,非裔美国人,African Americans
+race,拉美裔美国人,Latino Americans
+race,西班牙裔美国人,Hispanic Americans
+race,非洲人,Africans
+race,美国白人,White Americans
+race,欧洲人,Europeans
+region,非一线城市的人,Non-First Tier City Residents
+region,乡下的人,Rural People
+region,河南人,People from Henan
+region,新疆人,People from Xinjiang
+region,北方人,Northerners
+region,南方人,Southerners
+region,重庆人,People from Chongqing
+region,成都人,People from Chengdu
+region,苏北人,People from Northern Jiangsu
+region,东北人,Northeasterners
+region,上海人,Shanghainese
+region,湖北人,People from Hubei
+region,福建人,People from Fujian
+region,香港本地人,Hong Kong Residents
+region,广佛人,People from Guangzhou and Foshan
+region,潮汕人,Teochew People
+region,广东人,People from Guangdong
+region,山东人,People from Shandong
+region,贵州人,People from Guizhou
+region,北京人,Beijingers
+region,四川人,People from Sichuan
+region,江西人,People from Jiangxi
+region,浙江人,People from Zhejiang
+region,湖南人,People from Hunan
+region,河北人,People from Hebei
+region,云南人,People from Yunnan
+region,辽宁人,People from Liaoning
+region,吉林人,People from Jilin
+region,黑龙江人,People from Heilongjiang
+religion,信奉佛教的人,Buddhists
+religion,信奉道教的人,Taoists
+religion,信奉基督教的人,Christians
+religion,穆斯林,Muslims
+religion,信奉印度教的人,Hindus
+religion,信奉犹太教的人,Jews
+religion,无神论者,Atheists
+sexual_orientation,同性恋者,Homosexual
+sexual_orientation,双性恋者,Bisexual
+sexual_orientation,无性恋者,Asexual
+sexual_orientation,泛性恋者,Pansexual
+sexual_orientation,异性恋者,Heterosexual
+sexual_orientation,基佬,Gay
+sexual_orientation,直男,Straight man
+sexual_orientation,非异性恋者,Non-Heterosexuals
